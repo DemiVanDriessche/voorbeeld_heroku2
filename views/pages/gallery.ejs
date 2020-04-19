@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl-be" dir="ltr">
+    <head>
+        <%- include("../partials/head"); -%>
+        <link rel="stylesheet" href="/css/app.css"/>
+        <title>Art gallery</title>
+    </head>
+<body>
+ <%- include("../partials/navigation"); -%>
+ 
+ <div class="quote">
+  <h2>
+   <span>Art gallery</span> 
+  </h2>
+</div>
+
+<%- include("../pages/filter") -%>
+
+  <div class="parent">
+    <% details.forEach(function(post){ %>
+      <div class="div1"> 
+        <a href="/artwork/<%= post.titel %>"> <img src="../images/<%= post.imageUrl %>"></a> 
+      </div>
+    <% }); %>
+    
+    </div> 
+
+    <%- include("../partials/footer") -%>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

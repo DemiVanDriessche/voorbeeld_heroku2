@@ -1,0 +1,94 @@
+{
+    "details": [{
+      "imageUrl": "francisbacon3.jpg",
+      "titel": "Drie studies van een zelfportret",
+      "kunstenaar": "Francis Bacon",
+      "datum": "1979–80",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "14 3/4 × 12 1/2 in. (37.5 × 31.8 cm)",
+      "data-filter": ["Expressionisme", "schilderkunst", "francisbacon"]
+    },{
+      "imageUrl": "francisbacon1.jpg",
+      "titel": "Portret Velázquez van paus Innocentius X",
+      "kunstenaar": "Francis Bacon",
+      "datum": "1953",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "/",
+      "data-filter": ["expressionisme", "schilderkunst", "francisbacon"]
+    },{
+      "imageUrl": "francisbacon2.jpg",
+      "titel": "Studie van de Verpleegster in de Battleship Potemkin",
+      "kunstenaar": "Francis Bacon",
+      "datum": "1957",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "/",
+      "data-filter": ["expressionisme", "schilderkunst", "francisbacon"]
+    },{
+      "imageUrl": "georgbaselitz1.jpg",
+      "titel": "Die große Nacht im Eimer",
+      "kunstenaar": "Georg Baselitz",
+      "datum": "1962–63",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "250 cm × 180 cm (98 inch × 71 inch)",
+      "data-filter": ["expressionisme", "schilderkunst", "georgbaselitz"]
+    },{
+      "imageUrl": "egonschiele1.jpg",
+      "titel": "Crouching Nude in Shoes and Black Stockings, Back View",
+      "kunstenaar": "Egon Schiele",
+      "datum": "1912",
+      "stijl": "Expressionisme",
+      "medium": "Waterverf, gouache en graphite op paper",
+      "grootte": "19 × 12 3/4 in. (48.3 × 32.4 cm)",
+      "data-filter": ["expressionisme", "schilderkunst", "egonschiele"]
+    },{
+      "imageUrl": "georgbaselitz2.jpg",
+      "titel": "Good grey",
+      "kunstenaar": "Georg Baselitz",
+      "datum": "2009",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "/",
+      "data-filter": ["expressionisme", "schilderkunst", "georgbaselitz"]
+    },{
+      "imageUrl": "egonschiele2.jpg",
+      "titel": "Kardinaal en non",
+      "kunstenaar": "Egon Schiele",
+      "datum": "1912",
+      "stijl": "Expressionisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "19 × 12 3/4 in. (48.3 × 32.4 cm)",
+      "data-filter": ["expressionisme", "schilderkunst", "egonschiele"]
+    },{
+      "imageUrl": "marcelduchamp1.jpg",
+      "titel": "Naakt de trap afdalen",
+      "kunstenaar": "Marcel Duchamp",
+      "datum": "1912",
+      "stijl": "Kubisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "147 x 89 cm",
+      "tags": ["kubisme", "schilderkunst", "marcelduchamp"]
+    },{
+      "imageUrl": "marcelduchamp2.jpg",
+      "titel": "Urin",
+      "kunstenaar": "Marcel Duchamp",
+      "datum": "1917",
+      "stijl": "Dadaïsme",
+      "medium": "Keramiek",
+      "grootte": "147 x 89 cm",
+      "tags": ["dadaïsme", "beeldhouwkunst", "marcelduchamp"]
+    },{
+      "imageUrl": "pablopicasso1.jpg",
+      "titel": "Meisje met de mandoline",
+      "kunstenaar": "Pablo Picasso",
+      "datum": "1910",
+      "stijl": "Kubisme",
+      "medium": "Olie verf op canvas",
+      "grootte": "1 m x 74 cm",
+      "tags": ["kubisme", "schilderkunst", "pablopicasso"]
+    }]
+  }
+  

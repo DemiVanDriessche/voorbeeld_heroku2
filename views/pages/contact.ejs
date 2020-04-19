@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nl-be" dir="ltr">
+    <head>
+        <%- include("../partials/head"); -%>
+        <link rel="stylesheet" href="/css/app.css"/>
+        <title>Contact</title>
+    </head>
+<body>
+ <%- include("../partials/navigation"); -%>
+ <div id="contact_section">
+    <div class="contact_container">
+      <div class="contact_content">
+        <div class="left_section">
+          <span>
+            <h1>contacteer</h1>
+            <h1>ons</h1>
+          </span>
+          <p>+32 478 535 117</p>
+          <p>Zwanenstraat 3<br>2000 Antwerpen</p>
+        </div>
+        <div class="right_section">
+         <form action="mailto:demi.vandriessche@student.ap.be" method="post" enctype="text/plain">
+            <input class="app-form-control" placeholder="Naam" />
+            <input class="app-form-control" placeholder="Email" />
+            <textarea
+              class="app-form-control"
+              placeholder="Bericht"
+              rows="8"
+            ></textarea>
+            <button>send</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <%- include("../partials/footer") -%>
+
+</body>
+</html>

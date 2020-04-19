@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="nl-be" dir="ltr">
+    <head>
+        <%- include("../partials/head"); -%>
+        <link rel="stylesheet" href="/css/app.css"/>
+        <title>Art gallery</title>
+    </head>
+<body>
+ <%- include("../partials/navigation"); -%>
+         
+
+          <div id="container_about">
+            
+            <img src="../images/<%= post.imageUrl %>">
+            <div id="aboutart">
+              <h5>Titel</h5>
+              <p><%=post.titel %></p>
+            </div>
+              <hr>
+              <div id="aboutart">
+              <h5>Kunstenaar</h5>
+              <p><%=post.kunstenaar %></p>
+              </div>
+              <hr>
+              <div id="aboutart">
+              <h5>Datum</h5>
+              <p><%=post.datum %></p>
+              </div>
+              <hr>
+              <div id="aboutart">
+              <h5>Stijl</h5>
+              <p><%=post.stijl %></p>
+              </div>
+              <hr>
+            <div id="aboutart">
+              <h5>Medium</h5> 
+              <p><%=post.medium %></p>
+            </div>
+            <hr>
+              <div id="aboutart">
+              <h5>Grootte</h5>
+              <p><%=post.grootte %></p>
+            </div>
+              </div>
+ 
+          <%- include("../partials/footer") -%>
+
+</body>
+
+</html>

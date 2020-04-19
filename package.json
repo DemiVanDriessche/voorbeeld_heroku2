@@ -1,0 +1,22 @@
+{
+  "name": "opdracht3",
+  "version": "1.0.0",
+  "description": "museum app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Demi Van Driessche",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "isotope-layout": "^3.0.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
